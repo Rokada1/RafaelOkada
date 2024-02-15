@@ -1,7 +1,9 @@
-<h1 align="center">Oi 👋, eu sou Rafael Okada</h1>
-<h3 align="center">Apaixonado por automação de processos e análise de dados.</h3>
+<h1>Oi 👋, eu sou Rafael Okada</h1>
+<h3>Apaixonado por automação de processos e análise de dados.<br>
+Sou formado em Administração de empresas e tenho especializações em Gestão de Projetos e Data Science & Analytics </h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Power BI**
+- 🌱 Tenho experiência na utilização de ferramentas Microsoft como Excel, Access e SharePoint.<br>
+Também desenvolvo dashboards em Power BI e estou desenvolvendo meus conhecimentos em Python e SQL
 
 - 📫 Me encontre em **rcokada7@gmail.com**
 
